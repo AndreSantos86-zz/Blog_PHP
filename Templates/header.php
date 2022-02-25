@@ -13,7 +13,7 @@
     <title>Blog Codar</title>
 
     <!--------Estilos---------->
-    <link rel="stylesheet" href="<?=$BASE_URL ?>css/styles.css"> <!-- sem espaço entre a tag e a pasta para funcionar-->
+    <link rel="stylesheet" href="<?=$BASE_URL ?>/css/styles.css"> 
 
     <!--  Fontes  -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
